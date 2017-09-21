@@ -1,0 +1,13 @@
+name: ScreenBox
+author: Matthias__99
+version: 1.3
+main: de.matthias.ScreenBox
+
+commands:
+  boxsetpos:
+  boxsetspawn:
+  boxsethead:
+  boxsetholo:
+  boxenable:
+  boxdisable:
+  
